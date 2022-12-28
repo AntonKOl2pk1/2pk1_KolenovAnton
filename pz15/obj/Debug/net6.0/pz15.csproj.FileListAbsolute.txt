@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\pz3\pz15\bin\Debug\net6.0\pz15.exe
+C:\Users\MSI\source\repos\pz3\pz15\bin\Debug\net6.0\pz15.deps.json
+C:\Users\MSI\source\repos\pz3\pz15\bin\Debug\net6.0\pz15.runtimeconfig.json
+C:\Users\MSI\source\repos\pz3\pz15\bin\Debug\net6.0\pz15.dll
+C:\Users\MSI\source\repos\pz3\pz15\bin\Debug\net6.0\pz15.pdb
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\pz15.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\pz15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\pz15.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\pz15.AssemblyInfo.cs
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\pz15.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\pz15.dll
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\refint\pz15.dll
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\pz15.pdb
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\pz15.genruntimeconfig.cache
+C:\Users\MSI\source\repos\pz3\pz15\obj\Debug\net6.0\ref\pz15.dll
