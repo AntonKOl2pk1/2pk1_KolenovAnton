@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\pz3\pz19\bin\Debug\net6.0\pz19.exe
+C:\Users\MSI\source\repos\pz3\pz19\bin\Debug\net6.0\pz19.deps.json
+C:\Users\MSI\source\repos\pz3\pz19\bin\Debug\net6.0\pz19.runtimeconfig.json
+C:\Users\MSI\source\repos\pz3\pz19\bin\Debug\net6.0\pz19.dll
+C:\Users\MSI\source\repos\pz3\pz19\bin\Debug\net6.0\pz19.pdb
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\pz19.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\pz19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\pz19.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\pz19.AssemblyInfo.cs
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\pz19.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\pz19.dll
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\refint\pz19.dll
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\pz19.pdb
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\pz19.genruntimeconfig.cache
+C:\Users\MSI\source\repos\pz3\pz19\obj\Debug\net6.0\ref\pz19.dll
