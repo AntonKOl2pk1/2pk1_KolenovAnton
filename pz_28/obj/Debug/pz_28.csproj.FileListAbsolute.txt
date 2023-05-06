@@ -1,0 +1,8 @@
+D:\AntonKOl2pk1\2pk1_KolenovAnton\pz_28\bin\Debug\pz_28.exe.config
+D:\AntonKOl2pk1\2pk1_KolenovAnton\pz_28\bin\Debug\pz_28.exe
+D:\AntonKOl2pk1\2pk1_KolenovAnton\pz_28\bin\Debug\pz_28.pdb
+D:\AntonKOl2pk1\2pk1_KolenovAnton\pz_28\obj\Debug\pz_28.csproj.AssemblyReference.cache
+D:\AntonKOl2pk1\2pk1_KolenovAnton\pz_28\obj\Debug\pz_28.csproj.SuggestedBindingRedirects.cache
+D:\AntonKOl2pk1\2pk1_KolenovAnton\pz_28\obj\Debug\pz_28.csproj.CoreCompileInputs.cache
+D:\AntonKOl2pk1\2pk1_KolenovAnton\pz_28\obj\Debug\pz_28.exe
+D:\AntonKOl2pk1\2pk1_KolenovAnton\pz_28\obj\Debug\pz_28.pdb
