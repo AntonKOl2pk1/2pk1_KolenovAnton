@@ -1,0 +1,16 @@
+C:\Users\romka\source\repos\Коленов\pz_25\bin\Debug\pz_25.exe.config
+C:\Users\romka\source\repos\Коленов\pz_25\bin\Debug\pz_25.exe
+C:\Users\romka\source\repos\Коленов\pz_25\bin\Debug\pz_25.pdb
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25.csproj.AssemblyReference.cache
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25.csproj.SuggestedBindingRedirects.cache
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\MainWindow.g.cs
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\App.g.cs
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25_MarkupCompile.cache
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25_MarkupCompile.lref
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\MainWindow.baml
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25.g.resources
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25.Properties.Resources.resources
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25.csproj.GenerateResource.cache
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25.csproj.CoreCompileInputs.cache
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25.exe
+C:\Users\romka\source\repos\Коленов\pz_25\obj\Debug\pz_25.pdb
